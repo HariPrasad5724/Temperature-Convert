@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="textbox1">Enter the Original Temperature</string>
+    <string name="textbox2"> Enter the Temperature to convert</string>
+    <string name="textbox3">Enter the Temperature</string>
+    <string name="textbox4">Result will be displayed here</string>
+    <string name="editbox1"> </string>
+    <string name="editbox2"> </string>
+    <string name="editbox3"> </string>
+    <string name="button1">Convert</string>
+</resources>
